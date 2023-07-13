@@ -1,0 +1,115 @@
+.box{
+    width: 500px;
+    font-size: 20px;
+    padding: 20px;
+    font-family: arial;
+    margin: 10px auto 10px auto;
+    text-align:center;
+    background-color: lightblue;
+    display: inline-block;
+}
+span a{
+    text-decoration: none;
+    font-family: arial;
+    background-color: #4ecdc4;
+    font-size: 15px;
+    width:100px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    color: white  ;
+    display: block;
+    transition: 0.9s;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+span a:hover{
+    color: black;
+    background: linear-gradient(to right, #4ecdc4, #556270); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width:110px;
+    height: 40px;
+    border-radius: 30px;
+}
+.a{
+    background-image:url(img/marek-piwnicki-egejmTImEDg-unsplash.jpg);
+    background-position:center;
+    background-size: cover;
+}
+.b{
+    background-image: url(img/diganta-fZ_9ADVT-is-unsplash.jpg);
+    background-position:center;
+    background-size: cover;
+}
+.c{
+    background-image: url(img/marek-piwnicki-epdbc0xRjiI-unsplash.jpg);
+    background-position:center;
+    background-size: cover;
+}
+.d{
+    background: linear-gradient(to right, #8360c3, #2ebf91); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-position:center;
+    background-size: cover;
+    height:auto;
+}
+.e{
+    background-position:center;
+    background-size: cover;
+    background: linear-gradient(to right, #5a3f37, #2c7744); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.f{
+    background: linear-gradient(to right, #24c6dc, #514a9d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-position:center;
+    background-size: cover;
+}
+.g{
+    background-image: url(img/salman-sidheek-Tmz1HwqtXxA-unsplash.jpg);
+    background-position:center;
+    background-size: cover;
+}
+.h{
+    background-position:center;
+    background-size: cover;
+    height: ;
+    background: linear-gradient(to right, #000046, #1cb5e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.i{
+    background-image: url(img/spenser-sembrat-foaoqfc8kBA-unsplash.jpg);
+    background-position:center;
+    background-size: cove;
+}
+.j{
+    background: linear-gradient(to right, #43c6ac, #191654); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-position:center;
+    background-size: cove;r
+}
+.k{
+    background-image: url(img/thilak-mohan-v4VGRAN51bM-unsplash.jpg);
+    background-position:center;
+    background-size: cove;
+    height: ;
+}
+.l{
+    background-position:center;
+    background-size: cove;
+    height: ;
+    background: linear-gradient(to right, #5433ff, #20bdff, #a5fecb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.m{
+    background-position:center;
+    background-size: cove;
+    background-image: url(img/diganta-fZ_9ADVT-is-unsplash.jpg);
+}
+.n{
+    background-position:center;
+    background-size: cove;
+    background: linear-gradient(to right, #77a1d3, #79cbca, #e684ae); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.o{
+    background-position:center;
+    background-size: cove;
+    height: ;
+    background: linear-gradient(to right, #780206, #061161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
